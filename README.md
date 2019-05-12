@@ -1,10 +1,11 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+Sample projectg from GitHub Learning Lab
 
 ## What it does
 
-FEATURES PLACEHOLDER
+- It allows you to learn various feature of GitHub Smoothly.
+- Explore GitHub Learning Lab challenges to excl these features.
 
 ## Getting started
 
